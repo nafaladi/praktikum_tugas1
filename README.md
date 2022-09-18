@@ -1,6 +1,6 @@
 # tugas1
 
-A new Flutter project.
+Praktikum Pemrograman Aplikasi Mobile.
 
 ## Getting Started
 
